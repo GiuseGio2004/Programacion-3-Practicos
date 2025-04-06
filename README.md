@@ -2,7 +2,7 @@ Integrantes:
 
 Giuseppe Giovanelli
 
-luca soresi
+Luca Soresi
 
 Carrio Lautaro
 
