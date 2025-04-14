@@ -1,5 +1,5 @@
 # Practicos Programacion 3
-# Integrantes
+# Integrantes:
 # Giuseppe Giovanelli
 # Luca Soresi
 # Carrio Lautaro
